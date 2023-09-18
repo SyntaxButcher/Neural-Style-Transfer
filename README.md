@@ -5,9 +5,9 @@ Neural Style Transfer (NST) is an optimization technique used to modify the cont
 The project uses the VGG-19 model, a pre-trained deep convolutional neural network, to extract features from the content and style images. The generated image is then optimized to minimize the difference in content and style features from the respective images.
 
 ## Key Concepts
-**Content Image:** The image you want to transfer the style onto.
-**Style Image:** The image you want to transfer the style from.
-**Generated Image:** The output image, which starts as a copy of the content image and is iteratively refined.
+**Content Image:** The image you want to transfer the style onto. \n
+**Style Image:** The image you want to transfer the style from. \n
+**Generated Image:** The output image, which starts as a copy of the content image and is iteratively refined. \n
 
 ## Implementation Details
 ### Feature Extraction:
